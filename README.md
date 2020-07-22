@@ -2,46 +2,49 @@
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Phase 1. This version is for campus students whose projects will be graded using the Phase 1 Campus Project Rubric.
+In this lesson, we review the guidelines for the Phase 1 Final Project.
 
 ## Objectives
 
 You will be able to:
 
-* Describe all required aspects of the final project for Module 1
-* Describe all required deliverables
-* Describe what constitutes a successful project
+* Start your Phase 1 Final Project
+* Check that your project meets the requirements
+* Submit your project materials in Canvas
+* Prepare for your presentation and project review
 
-## Final Project Summary
+## Project Overview
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-1-project-v2-1/master/awesome.gif)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "Level Up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
+All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete. 
 
-## The Project
+### Business Problem
 
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-# The Dataset
+### The Dataset
 
-You may scrape or make API calls to get additional data, but included in the repository (in the folder `zippedData`) is some movie-related data from:
+In the folder `zippedData` are movie datasets from:
+
 * Box Office Mojo
 * IMDB
 * Rotten Tomatoes
 * TheMovieDB.org
 
-# The Deliverables
+**Level Up**: Scrape websites or make API calls to get additional data.
 
-For online students, there will be five deliverables for this project (Note: On-campus students may have different requirements, please speak with your instructor):
+## The Deliverables
+
+There are four deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
 2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
 3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
 4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
-5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
 
 Note: On-campus students may have different requirements, please speak with your instructor.
 
