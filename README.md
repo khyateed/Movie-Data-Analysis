@@ -1,8 +1,8 @@
-# Phase 1 Final Project (Campus Graded)
+# Phase 1 Final Project - Campus Graded
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1. This version is for campus students whose projects will be graded using the Phase 1 Campus Project Rubric.
+In this lesson, we'll review all of the guidelines and specifications for the final project for Phase 1. This version is for campus students whose projects will be graded using the Phase 1 Campus Project Rubric.
 
 ## Objectives
 
