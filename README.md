@@ -26,7 +26,7 @@ All that remains in Phase 1 is to put our newfound data science skills to use wi
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
 Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-### The Dataset
+### The Data
 
 In the folder `zippedData` are movie datasets from:
 
@@ -37,16 +37,20 @@ In the folder `zippedData` are movie datasets from:
 
 **Level Up**: Scrape websites or make API calls to get additional data.
 
+If you struggled with the Code Challenge, use only the following data files:
+
+* imdb.title.basics
+* imdb.title.ratings
+* bom.movie_gross
+
 ## The Deliverables
 
 There are four deliverables for this project:
 
-1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
-3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
+1. An organized **GitHub repository** including a README.md file that describes the contents of the repository. 
+2. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
+3. A short **Non-technical presentation** giving a high-level overview of your methodology and recommendations for non-technical stakeholders. We recommend creating the presentation in Google Slides, PowerPoint, or Keynote. Include a pdf of your non-technical presentation in your repository (use file name "presentation.pdf").
 4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
-
-Note: On-campus students may have different requirements, please speak with your instructor.
 
 ### Jupyter Notebook Must-Haves
 
