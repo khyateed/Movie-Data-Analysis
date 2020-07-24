@@ -47,42 +47,30 @@ If you struggled with the Code Challenge, use only the following data files:
 
 There are four deliverables for this project:
 
-1. An organized **GitHub repository** including a README.md file that describes the contents of the repository. 
-2. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-3. A short **Non-technical presentation** giving a high-level overview of your methodology and recommendations for non-technical stakeholders. We recommend creating the presentation in Google Slides, PowerPoint, or Keynote. Include a pdf of your non-technical presentation in your repository (use file name "presentation.pdf").
-4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
+1. A **GitHub repository**
+2. A **Jupyter Notebook**
+3. A **Non-technical presentation**
+4. A **Blog post**
 
-### Jupyter Notebook Must-Haves
+Refer to the rubric associated with this assignment for detailed information about the deliverable requirements.
+
+### GitHub Repository
+
+TBD
+
+### Jupyter Notebook
 
 For this project, your Jupyter Notebook should meet the following specifications:
 
-#### Organization/Code Cleanliness
+### Non-Technical Presentation
 
-* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
-    * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
-* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
-
-#### Visualizations & EDA
-
-* Your project contains at least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)  
-* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook.
-    * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
-* Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
-
-### Non-Technical Presentation Must-Haves
-
-Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to make decisions for creating movies.
-
-Your presentation should:
-
-* Contain between 5 - 10 professional-quality slides.  
-    * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
-* Take no more than 5 minutes to present.   
-* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
+Your target audience is non-technical people interested in using your findings to make decisions for creating movies. 
+We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
+Your presentation must be saved as a `presentation.pdf` file in your repository.  
 
 ### Blog Post Must-Haves
 
-Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1) for the technical requirements and blog ideas.
+Refer to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1) for blog requirements and ideas.
 
 ## The Process
 
