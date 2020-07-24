@@ -60,13 +60,13 @@ TBD
 
 ### Jupyter Notebook
 
-For this project, your Jupyter Notebook should meet the following specifications:
+TBD
 
 ### Non-Technical Presentation
 
-Your target audience is non-technical people interested in using your findings to make decisions for creating movies. 
-We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
-Your presentation must be saved as a `presentation.pdf` file in your repository.  
+- Your target audience is non-technical people interested in using your findings to make decisions for creating movies. 
+- We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
+- Your presentation must be saved as a `presentation.pdf` file in your repository.  
 
 ### Blog Post Must-Haves
 
@@ -93,7 +93,7 @@ Hit "I'm done" to wrap it up. You will receive an email in order to schedule you
 
 You have until the end of the week to present your project and submit your project. Project submissions are due at the end of project week, and will be reviewed by teachers on the Monday or Tuesday of the following week.
 
-Teachers will use the rubric in Canvas associated with this assignment to grade your submission and presentation. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+If you did not pass the code challenge, your teacher will use the rubric in Canvas associated with this assignment to grade your submission and presentation. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
 
 *  0% to 29% = 1
 * 30% to 49% = 2
