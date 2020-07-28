@@ -1,4 +1,4 @@
-# Phase 1 Final Project - Campus Graded
+# Phase 1 Final Project - Campus
 
 ## Introduction
 
@@ -17,7 +17,7 @@ You will be able to:
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-1-project-v2-1/master/awesome.gif)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 
 All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete. 
 
@@ -108,7 +108,7 @@ Your teacher will review your project to ensure that you have submitted all of t
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
-If you did not pass the code challenge, your teacher will use the rubric in Canvas associated with this assignment to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
 
 *  0% to 29% = 1
 * 30% to 49% = 2
@@ -116,13 +116,15 @@ If you did not pass the code challenge, your teacher will use the rubric in Canv
 * 70% to 89% = 4
 * 90% to 100% = 5
 
+Your teacher will grade your submission and give you feedback sometime during the week after you submit.
+
 ## Summary
 
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
 ## Tips
 
-Ask for help from your peers or instructors early and often if you need it.
+Ask for help from your peers or instructors early and often.
 
 [a template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
