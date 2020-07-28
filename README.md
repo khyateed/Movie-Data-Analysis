@@ -54,7 +54,7 @@ Keep in mind that the audience for these deliverables is not only your teacher, 
 
 We provide a few resources to help you understand what makes for good deliverables. 
 - The rubric associated with this assignment 
-- [A project template, with an example for reference][]. 
+- [A template for you to use, with an example for reference][]. 
 
 ### GitHub Repository
 
@@ -79,7 +79,7 @@ To submit your project, you will need to create and upload PDF versions of the f
 ### Presentation Submission
 
 1. Save or export your presentation as a PDF from the program you created it in. 
-2. Give it appropriate file name (e.g. `presentation.pdf`).
+2. Give it an appropriate file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
 ### GitHub Repository Submission
@@ -124,6 +124,6 @@ This project will give you a valuable opportunity to develop your data science s
 
 Ask for help from your peers or instructors early and often.
 
-[a template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
+[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
