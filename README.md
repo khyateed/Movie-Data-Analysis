@@ -98,11 +98,11 @@ You can submit all four files as a single submission in the "File Upload" box to
 
 ## Project Review
 
-You have until the end of the week to present and submit your project. Your review process will depend on whether you passed the code challenge.
+You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge.
 
 ### Passed Code Challenge: Check for Completion
 
-Your teacher will review your project to ensure that you have submitted all of the required project deliverables, but will not use a rubric to formally score it. All students must complete all project deliverables to proceed to the next phase. 
+If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables, but will not use a rubric to score it. 
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
