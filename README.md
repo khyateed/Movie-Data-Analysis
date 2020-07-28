@@ -37,7 +37,7 @@ In the folder `zippedData` are movie datasets from:
 
 **Level Up**: Scrape websites or make API calls to get additional data.
 
-If you struggled with the Code Challenge, use only the following data files:
+If you struggled with the Phase 1 Code Challenge, use only the following data files:
 
 * imdb.title.basics
 * imdb.title.ratings
@@ -52,48 +52,63 @@ There are four deliverables for this project:
 3. A **Non-technical presentation**
 4. A **Blog post**
 
-Refer to the rubric associated with this assignment for detailed information about the deliverable requirements.
+Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
+
+We provide a few resources to help you understand what makes for good deliverables. 
+- The rubric associated with this assignment 
+- [A project template, with an example for reference][]. 
 
 ### GitHub Repository
 
-TBD
+Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository. 
 
 ### Jupyter Notebook
 
-TBD
+Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
 ### Non-Technical Presentation
 
-- Your target audience is non-technical people interested in using your findings to make decisions for creating movies. 
-- We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
-- Your presentation must be saved as a `presentation.pdf` file in your repository.  
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
 
-### Blog Post Must-Haves
+### Blog Post
 
-Refer to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1) for blog requirements and ideas.
+Your blog post is your opportunity to communicate to a wider audience about your project or what you've learned while doing it. The target audience is your peers in the broader data science community. Refer to the [blogging guidelines][] for blog requirements and ideas.
 
-## The Process
+## Submitting your Project
 
-### Getting Started
+To submit your project, you will need to create and upload PDF versions of the four project deliverables. 
 
-### Submitting your Project
+### Presentation Submission
 
-**NEEDS OVERHAUL**
+1. Save or export your presentation as a PDF from the program you created it in. 
+2. Give it appropriate file name (e.g. `presentation.pdf`).
+3. Include a copy of the PDF in your GitHub repository.
 
-You’re almost done! In order to submit your project for review, include the following links to your work in the corresponding fields on the right-hand side of Learn.
+### GitHub Repository Submission
 
-1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).)
-_Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf._
-2. **Blog Post:** Include a link to your blog post.
-3. **Record Walkthrough:** Include a link to your video walkthrough.
+1. Navigate to the root directory of your repository in your browser (we recommend Google Chrome).
+2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 
-Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
+### Jupyter Notebook & Blog Submission
+
+1. Open your Notebook/blog in your browser (we recommend Google Chrome).
+2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+
+### Submitting in Canvas
+
+You can submit all four files as a single submission in the "File Upload" box toward the bottom of this page. There should currently be a "Choose File" button to upload a single file, but there will be no location to upload additional files. To upload more files, you must click the "Add Another File" link in the submission box - you will need to do this multiple times to submit all four files. Once all four files are included in your submission, hit the blue "Submit Assignment" button.
 
 ## Project Review
 
-You have until the end of the week to present your project and submit your project. Project submissions are due at the end of project week, and will be reviewed by teachers on the Monday or Tuesday of the following week.
+You have until the end of the week to present and submit your project. Your review process will depend on whether you passed the code challenge.
 
-If you did not pass the code challenge, your teacher will use the rubric in Canvas associated with this assignment to grade your submission and presentation. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+### Passed Code Challenge: Check for Completion
+
+Your teacher will review your project to ensure that you have submitted all of the required project deliverables, but will not use a rubric to formally score it. All students must complete all project deliverables to proceed to the next phase. 
+
+### Did Not Pass Code Challenge: Rubric Scoring
+
+If you did not pass the code challenge, your teacher will use the rubric in Canvas associated with this assignment to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
 
 *  0% to 29% = 1
 * 30% to 49% = 2
@@ -108,3 +123,7 @@ This project will give you a valuable opportunity to develop your data science s
 ## Tips
 
 Ask for help from your peers or instructors early and often if you need it.
+
+[a template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
+[blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
+[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
