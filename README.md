@@ -41,7 +41,7 @@ It is up to you to decide what data from this to use and how to use it. If you w
 * imdb.title.ratings
 * bom.movie_gross
 
-## The Deliverables
+## Deliverables
 
 There are four deliverables for this project:
 
@@ -76,25 +76,27 @@ Your blog post is your opportunity to communicate to a wider audience about your
 
 To submit your project, you will need to create and upload PDF versions of the four project deliverables. 
 
-### Presentation Submission
+### Presentation PDF Creation
 
 1. Save or export your presentation as a PDF from the program you created it in. 
 2. Give it an appropriate file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
-### GitHub Repository Submission
+### GitHub Repository PDF Creation
 
 1. Navigate to the root directory of your repository in your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+3. Give it an appropriate file name (e.g. `github.pdf`).
 
-### Jupyter Notebook & Blog Submission
+### Jupyter Notebook & Blog PDF Creation
 
-1. Open your Notebook/blog in your browser (we recommend Google Chrome).
+1. Open your Notebook/blog post in your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+3. Give it an appropriate file name (e.g. `blog.pdf`).
 
-### Submitting in Canvas
+### PDF Submission in Canvas
 
-You can submit all four files as a single submission in the "File Upload" box toward the bottom of this page. There should currently be a "Choose File" button to upload a single file, but there will be no location to upload additional files. To upload more files, you must click the "Add Another File" link in the submission box - you will need to do this multiple times to submit all four files. Once all four files are included in your submission, hit the blue "Submit Assignment" button.
+Submit all four files as a single submission in the "File Upload" box toward the bottom of this page. There should currently be a "Choose File" button to upload a single file, but there will be no location to upload additional files. To upload more files, you must click the "Add Another File" link in the submission box - you will need to do this multiple times to submit all four files. Once all four files are included in your submission, hit the blue "Submit Assignment" button.
 
 ## Project Review
 
@@ -102,7 +104,7 @@ You have until the end of the week to present and submit your project. All stude
 
 ### Passed Code Challenge: Check for Completion
 
-If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables, but will not use a rubric to score it. 
+If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. While you may find this assignment's rubric helpful for guiding your project, it will not be used to evaluate your submission.
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
