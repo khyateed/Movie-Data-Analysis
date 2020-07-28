@@ -35,9 +35,7 @@ In the folder `zippedData` are movie datasets from:
 * Rotten Tomatoes
 * TheMovieDB.org
 
-**Level Up**: Scrape websites or make API calls to get additional data.
-
-If you struggled with the Phase 1 Code Challenge, use only the following data files:
+It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
 
 * imdb.title.basics
 * imdb.title.ratings
