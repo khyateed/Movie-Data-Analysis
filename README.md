@@ -11,7 +11,6 @@ You will be able to:
 * Start your Phase 1 Final Project
 * Check that your project meets the requirements
 * Submit your project materials in Canvas
-* Prepare for your presentation and project review
 
 ## Project Overview
 
