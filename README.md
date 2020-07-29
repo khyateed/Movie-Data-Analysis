@@ -88,6 +88,8 @@ To submit your project, you will need to create and upload PDF versions of the f
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 3. Give it a descriptive file name (e.g. `github.pdf`).
 
+![repo_pdf](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
+
 ### Jupyter Notebook & Blog PDF Creation
 
 1. Open your Notebook/blog post in your browser (we recommend Google Chrome).
