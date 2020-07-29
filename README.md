@@ -87,7 +87,7 @@ To submit your project, you will need to create and upload PDF versions of the f
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 3. Give it a short descriptive file name (e.g. `github.pdf`).
 
-![repo_pdf](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
+![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
 
 ### Jupyter Notebook & Blog PDF Creation
 
@@ -105,7 +105,7 @@ You will need to submit all four PDF files as a single submission:
 4. Repeat Step 3 two times to upload two more files. After this is done, all four files should be uploaded.
 5. Hit the blue "Submit Assignment" button.
 
-![proj_submission_campus](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/proj_submission_campus.gif)
+![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/project_pdf_submission.gif)
 
 ## Project Review
 
