@@ -98,7 +98,15 @@ To submit your project, you will need to create and upload PDF versions of the f
 
 ### PDF Submission in Canvas
 
-Submit all four PDF files as a single submission in the "File Upload" box toward the bottom of this page. There should currently be a "Choose File" button to upload a single file, but there will be no location to upload additional files. To upload more files, you must click the "Add Another File" link in the submission box - you will need to do this multiple times to submit all four files. Once all four files are included in your submission, hit the blue "Submit Assignment" button.
+You will need to submit all four PDF files as a single submission:
+
+1. Click "Submit Assignment" at the top of this page.
+2. In the "File Upload" box, click "Choose File" button to upload a single file.
+3. Click the "Add Another File" link to upload an additional file.
+4. Repeat Step 3 two times to upload two more files. After this is done, all four files should be uploaded.
+5. Hit the blue "Submit Assignment" button.
+
+![proj_submission_campus](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/proj_submission_campus.gif)
 
 ## Project Review
 
