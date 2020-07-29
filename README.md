@@ -1,4 +1,4 @@
-# Phase 1 Final Project - Campus
+# Phase 1 Final Project
 
 ## Introduction
 
