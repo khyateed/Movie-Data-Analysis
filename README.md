@@ -79,14 +79,14 @@ To submit your project, you will need to create and upload PDF versions of the f
 ### Presentation PDF Creation
 
 1. Save or export your presentation as a PDF from the program you created it in. 
-2. Give it a descriptive file name (e.g. `presentation.pdf`).
+2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
 ### GitHub Repository PDF Creation
 
 1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a descriptive file name (e.g. `github.pdf`).
+3. Give it a short descriptive file name (e.g. `github.pdf`).
 
 ![repo_pdf](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
 
@@ -94,7 +94,7 @@ To submit your project, you will need to create and upload PDF versions of the f
 
 1. Open your Notebook/blog post in your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a descriptive file name (e.g. `blog.pdf`).
+3. Give it a short descriptive file name (e.g. `blog.pdf`).
 
 ### PDF Submission in Canvas
 
