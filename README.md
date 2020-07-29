@@ -47,8 +47,8 @@ There are four deliverables for this project:
 
 1. A **GitHub repository**
 2. A **Jupyter Notebook**
-3. A **Non-technical presentation**
-4. A **Blog post**
+3. A **non-technical presentation**
+4. A **blog post**
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
@@ -66,19 +66,27 @@ Your Jupyter Notebook is the primary source of information about your analysis. 
 
 ### Non-Technical Presentation
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
 
 ### Blog Post
 
 Your blog post is your opportunity to communicate to a wider audience about your project or what you've learned while doing it. The target audience is your peers in the broader data science community. Refer to the [blogging guidelines][] for blog requirements and ideas.
 
+## Getting Started
+
+Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
+
+Start on this project by forking [this repository], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+
+We also recommend you check out [the project template and example][]. You can use this template for your project repository and presentation.
+
 ## Submitting your Project
 
-To submit your project, you will need to create and upload PDF versions of the four project deliverables. 
+To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. 
 
-### Presentation PDF Creation
+### Presentation Slides PDF Creation
 
-1. Save or export your presentation as a PDF from the program you created it in. 
+1. Save or export your presentation slides as a PDF from the program you created it in. 
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
@@ -139,3 +147,5 @@ Ask for help from your peers or instructors early and often.
 [A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
+[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
+[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template 
