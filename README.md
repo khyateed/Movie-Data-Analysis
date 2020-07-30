@@ -122,17 +122,25 @@ You have until the end of the week to present and submit your project. All stude
 
 ### Passed Code Challenge: Check for Completion
 
-If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. While you may find this assignment's rubric helpful for guiding your project, it will not be used to evaluate your submission.
+If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. You will receive a 1-5 score as follows:
+
+* 1: Multiple deliverables missing or incomplete
+* 2: One deliverable missing or incomplete
+* 3: All deliverables complete
+* 4: All deliverables complete with good style and content
+* 5: All deliverables complete with outstanding style and content
+
+While you may find the assignment rubric below helpful for guiding your project, it will not be used to evaluate your submission.
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
 If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
 
-*  0% to 29% = 1
-* 30% to 49% = 2
-* 50% to 69% = 3
-* 70% to 89% = 4
-* 90% to 100% = 5
+* 1: 0% to 29%
+* 2: 30% to 49%
+* 3: 50% to 69%
+* 4: 70% to 89%
+* 5: 90% to 100%
 
 Your teacher will grade your submission and give you feedback sometime during the week after you submit.
 
