@@ -86,7 +86,7 @@ To submit your project in Canvas, you will need to create and upload PDF version
 
 ### Presentation Slides PDF Creation
 
-1. Save or export your presentation slides as a PDF from the program you created it in. 
+1. Save or export your presentation as a PDF from the program in which you created it. 
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
@@ -98,11 +98,17 @@ To submit your project in Canvas, you will need to create and upload PDF version
 
 ![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
 
-### Jupyter Notebook & Blog PDF Creation
+### Blog Post PDF Creation
 
-1. Open your Notebook/blog post in your browser (we recommend Google Chrome).
+1. Open the webpage where your blog is published in your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 3. Give it a short descriptive file name (e.g. `blog.pdf`).
+
+### Jupyter Notebook PDF Creation
+
+1. Open your Notebook in your browser (we recommend Google Chrome).
+2. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+3. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
 
@@ -118,7 +124,7 @@ You will need to submit all four PDF files as a single submission:
 
 ## Project Review
 
-You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge. You will receive a 1-5 score - a score of 3 or higher is considered passing.
+You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge. You will receive L1-5 score - L3 or higher is passing.
 
 ### Passed Code Challenge: Check for Completion
 
