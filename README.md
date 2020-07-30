@@ -118,7 +118,7 @@ You will need to submit all four PDF files as a single submission:
 
 ## Project Review
 
-You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge.
+You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge. You will receive a 1-5 score - a score of 3 or higher is considered passing.
 
 ### Passed Code Challenge: Check for Completion
 
@@ -134,7 +134,7 @@ While you may find the assignment rubric below helpful for guiding your project,
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
-If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a 1-5 score based on the percentage of available points you earn.
 
 * 1: 0% to 29%
 * 2: 30% to 49%
