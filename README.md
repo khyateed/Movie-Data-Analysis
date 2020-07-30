@@ -122,7 +122,7 @@ You have until the end of the week to present and submit your project. All stude
 
 ### Passed Code Challenge: Check for Completion
 
-If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. You will receive a 1-5 score as follows:
+If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. Your project will receive a score as follows:
 
 * L1: Multiple deliverables missing or incomplete
 * L2: One deliverable missing or incomplete
@@ -130,11 +130,11 @@ If you passed the code challenge, your teacher will review your project to ensur
 * L4: All deliverables complete with good style and content
 * L5: All deliverables complete with outstanding style and content
 
-While you may find the assignment rubric below helpful for guiding your project, it will not be used to evaluate your submission.
+While you may find the rubric at the bottom of this assignment helpful for guiding your project, it will not be used to evaluate your submission.
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
-If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a 1-5 score based on the percentage of available points you earn.
+If you did not pass the code challenge, your teacher will use the rubric at the bottom of this assignment to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a score based on the percentage of points you earn.
 
 * L1: 0% to 29%
 * L2: 30% to 49%
@@ -155,5 +155,5 @@ Ask for help from your peers or instructors early and often.
 [A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
+[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
 [this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template 
