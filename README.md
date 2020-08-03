@@ -19,7 +19,7 @@ You've made it all the way through the first phase of this course - take a minut
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete. 
+All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete.
 
 ### Business Problem
 
@@ -52,13 +52,13 @@ There are four deliverables for this project:
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
-We provide a few resources to help you understand what makes for good deliverables. 
-- The rubric associated with this assignment 
-- [A template for you to use, with an example for reference][]. 
+We provide a few resources to help you understand what makes for good deliverables.
+- The rubric associated with this assignment
+- [A template for you to use, with an example for reference][].
 
 ### GitHub Repository
 
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository. 
+Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
 
 ### Jupyter Notebook
 
@@ -82,11 +82,11 @@ We also recommend you check out [the project template and example][]. You can us
 
 ## Submitting your Project
 
-To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. 
+To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. You will also need to upload URLs to your GitHub repository and blog in separate assignments.
 
 ### Presentation Slides PDF Creation
 
-1. Save or export your presentation as a PDF from the program in which you created it. 
+1. Save or export your presentation as a PDF from the program in which you created it.
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
@@ -123,33 +123,26 @@ You will need to submit all four PDF files as a single submission:
 
 ![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/project_pdf_submission.gif)
 
+### URL Submission in Canvas
+
+There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1" module in this course.
+
+* Phase 1 Final Project - GitHub Repository URL
+* Phase 1 Final Project - Blog Post URL
+
 ## Project Review
 
-You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge. You will receive L1-5 score - L3 or higher is passing.
+You have until the end of the week to present your project and submit it for review. You will receive a score of "Pass" or "No Pass" - you must receive a score of "Pass" to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
+
+Which review process you receive will depend on whether you passed the code challenge, as described below.
 
 ### Passed Code Challenge: Check for Completion
 
-If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. Your project will receive a score as follows:
-
-* L1: Multiple deliverables missing or incomplete
-* L2: One deliverable missing or incomplete
-* L3: All deliverables complete
-* L4: All deliverables complete with good style and content
-* L5: All deliverables complete with outstanding style and content
-
-While you may find the rubric at the bottom of this assignment helpful for guiding your project, it will not be used to evaluate your submission.
+If you passed the code challenge, your teacher will review your project to ensure that it is complete. Your project will pass if you have completed and submitted all project deliverables. While you may find the rubric at the bottom of this assignment helpful for guiding your project, it will not be used to evaluate your submission.
 
 ### Did Not Pass Code Challenge: Rubric Scoring
 
-If you did not pass the code challenge, your teacher will use the rubric at the bottom of this assignment to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a score based on the percentage of points you earn.
-
-* L1: 0% to 29%
-* L2: 30% to 49%
-* L3: 50% to 69%
-* L4: 70% to 89%
-* L5: 90% to 100%
-
-Your teacher will grade your submission and give you feedback sometime during the week after you submit.
+If you did not pass the code challenge, your teacher will use the rubric at the bottom of this assignment to grade your submission. You can earn 0, 1, or 2 points on each rubric element. Your project will pass if it earns at least 50% of the points available.
 
 ## Summary
 
@@ -159,8 +152,8 @@ This project will give you a valuable opportunity to develop your data science s
 
 Ask for help from your peers or instructors early and often.
 
-[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
+[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
-[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template 
+[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
