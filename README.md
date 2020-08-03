@@ -82,7 +82,7 @@ We also recommend you check out [the project template and example][]. You can us
 
 ## Submitting your Project
 
-To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. You will also need to upload URLs to your GitHub repository and blog in separate assignments.
+To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. You will also need to submit URLs to your GitHub repository and blog post in separate assignments.
 
 ### Presentation Slides PDF Creation
 
