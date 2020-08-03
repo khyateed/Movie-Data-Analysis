@@ -132,7 +132,7 @@ There are two additional Canvas assignments where you will need to enter the URL
 
 ## Project Review
 
-You have until the end of the week to present your project and submit it for review. You will receive a score of "Pass" or "No Pass" - you must receive a score of "Pass" to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
+You have until the end of the week to present your project and submit it for review. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
 
 Which review process you receive will depend on whether you passed the code challenge, as described below.
 
