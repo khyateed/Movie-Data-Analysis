@@ -125,7 +125,7 @@ You will need to submit all four PDF files as a single submission:
 
 ### URL Submission in Canvas
 
-There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1" module in this course.
+There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1 Milestones" module in this course.
 
 * Phase 1 Final Project - GitHub Repository URL
 * Phase 1 Final Project - Blog Post URL
