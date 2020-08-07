@@ -43,12 +43,11 @@ It is up to you to decide what data from this to use and how to use it. If you w
 
 ## Deliverables
 
-There are four deliverables for this project:
+There are three deliverables for this project:
 
 1. A **GitHub repository**
 2. A **Jupyter Notebook**
 3. A **non-technical presentation**
-4. A **blog post**
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
@@ -68,81 +67,17 @@ Your Jupyter Notebook is the primary source of information about your analysis. 
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
 
-### Blog Post
-
-Your blog post is your opportunity to communicate to a wider audience about your project or what you've learned while doing it. The target audience is your peers in the broader data science community. Refer to the [blogging guidelines][] for blog requirements and ideas.
-
 ## Getting Started
 
 Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
 
-Start on this project by forking [this repository], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Start on this project by forking [the Phase 1 Final Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 We also recommend you check out [the project template and example][]. You can use this template for your project repository and presentation.
 
-## Submitting your Project
+## Project Submission and Review
 
-To submit your project in Canvas, you will need to create and upload PDF versions of the four project deliverables. You will also need to submit URLs to your GitHub repository and blog post in separate assignments.
-
-### Presentation Slides PDF Creation
-
-1. Save or export your presentation as a PDF from the program in which you created it.
-2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. Include a copy of the PDF in your GitHub repository.
-
-### GitHub Repository PDF Creation
-
-1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a short descriptive file name (e.g. `github.pdf`).
-
-![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
-
-### Blog Post PDF Creation
-
-1. Open the webpage where your blog is published in your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a short descriptive file name (e.g. `blog.pdf`).
-
-### Jupyter Notebook PDF Creation
-
-1. Open your Notebook in your browser (we recommend Google Chrome).
-2. Run the Notebook from start to finish so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-4. Give it a short descriptive file name (e.g. `notebook.pdf`).
-
-### PDF Submission in Canvas
-
-You will need to submit all four PDF files as a single submission:
-
-1. Click "Submit Assignment" at the top of this page.
-2. In the "File Upload" box, click "Choose File" button to upload a single file.
-3. Click the "Add Another File" link to upload an additional file.
-4. Repeat Step 3 two times to upload two more files. After this is done, all four files should be uploaded.
-5. Hit the blue "Submit Assignment" button.
-
-![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/project_pdf_submission.gif)
-
-### URL Submission in Canvas
-
-There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1 Milestones" module in this course.
-
-* Phase 1 Final Project - GitHub Repository URL
-* Phase 1 Final Project - Blog Post URL
-
-## Project Review
-
-You have until the end of the week to present your project and submit it for review. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
-
-Which review process you receive will depend on whether you passed the code challenge, as described below.
-
-### Passed Code Challenge: Check for Completion
-
-If you passed the code challenge, your teacher will review your project to ensure that it is complete. Your project will pass if you have completed and submitted all project deliverables. While you may find the rubric at the bottom of this assignment helpful for guiding your project, it will not be used to evaluate your submission.
-
-### Did Not Pass Code Challenge: Rubric Scoring
-
-If you did not pass the code challenge, your teacher will use the rubric at the bottom of this assignment to grade your submission. You can earn 0, 1, or 2 points on each rubric element. Your project will pass if it earns at least 50% of the points available.
+Review [the Final Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
 ## Summary
 
@@ -153,7 +88,7 @@ This project will give you a valuable opportunity to develop your data science s
 Ask for help from your peers or instructors early and often.
 
 [A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
-[blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
+[the Phase 1 Final Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
 [this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
+[the Project Submission and Review instructions]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
