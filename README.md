@@ -91,4 +91,4 @@ Ask for help from your peers or instructors early and often.
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [the Phase 1 Final Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
 [this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
-[the Project Submission and Review instructions]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
+[the Final Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
