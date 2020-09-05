@@ -1,14 +1,14 @@
-# Phase 1 Project
+# Phase 1 Final Project
 
 ## Introduction
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+In this lesson, we review the guidelines for the Phase 1 Final Project.
 
 ## Objectives
 
 You will be able to:
 
-* Start your Phase 1 Project
+* Start your Phase 1 Final Project
 * Check that your project meets the requirements
 * Submit your project materials in Canvas
 * Prepare for your project review
@@ -19,7 +19,7 @@ You've made it all the way through the first phase of this course - take a minut
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a project! This project will take an entire week to complete.
+All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete.
 
 ### Business Problem
 
@@ -71,13 +71,13 @@ Your non-technical presentation is your opportunity to communicate clearly and c
 
 Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
 
-Start on this project by forking [the Phase 1 Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Start on this project by forking [the Phase 1 Final Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 We also recommend you check out [the project template and example][]. You can use this template for your project repository and presentation.
 
 ## Project Submission and Review
 
-Review [the Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+Review [the Final Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
 ## Summary
 
@@ -89,6 +89,6 @@ Ask for help from your peers or instructors early and often.
 
 [A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[the Phase 1  Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
+[the Phase 1 Final Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
 [this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
-[the Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
+[the Final Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
