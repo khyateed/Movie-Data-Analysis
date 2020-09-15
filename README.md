@@ -71,7 +71,7 @@ Your non-technical presentation is your opportunity to communicate clearly and c
 
 Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
 
-Start on this project by forking [the Phase 2 Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Start on this project by forking [the Phase 1 Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 We also recommend you check out [the project template and example][]. You can use this template for your project repository and presentation.
 
@@ -89,5 +89,6 @@ Ask for help from your peers or instructors early and often.
 
 [A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[the Phase 2 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-2-project-campus
+[the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
+[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
 [the Phase Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
