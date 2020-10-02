@@ -11,7 +11,7 @@ The goal of this project is to help imaginary company "Microsoft" better underst
 The `zippedData` folder contains the datasets used for this project:
 
 * [Oscar Nominations](https://www.kaggle.com/unanimad/the-oscar-award)
-* [Movie Trailers]([https://grouplens.org/datasets/movielens/20m-youtube/])
+* [Movie Trailers](https://grouplens.org/datasets/movielens/20m-youtube/)
 * [Music Scores](http://www.movie-wave.net/reviews-by-title/)
 * Box Office Mojo
 * IMDB
