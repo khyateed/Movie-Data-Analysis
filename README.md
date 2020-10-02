@@ -1,93 +1,47 @@
-# Phase 1 Project
+# Music Data Analysis Project
+#### Flatiron School Data Science Program - Project 1<br>By Khyatee Desai & Amelia Dahm<br>Oct. 2nd, 2020
 
-## Introduction
+## Background
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+The goal of this project is to help imaginary company "Microsoft" better understand the movie industry. This is accomplished by exploring what type of films are currently doing the best at the box office, and then translating those findings into actionable insights for Microsoft.
 
-## Objectives
-
-You will be able to:
-
-* Start your Phase 1 Project
-* Check that your project meets the requirements
-* Submit your project materials in Canvas
-* Prepare for your project review
-
-## Project Overview
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
-
-All that remains in Phase 1 is to put our newfound data science skills to use with a large project! This project will take an entire week to complete.
-
-### Business Problem
-
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
-In the folder `zippedData` are movie datasets from:
+The `zippedData` folder contains the datasets used for this project:
 
+* [Oscar Nominations](https://www.kaggle.com/unanimad/the-oscar-award)
+* [Movie Trailers]([https://grouplens.org/datasets/movielens/20m-youtube/])
+* [Music Scores](http://www.movie-wave.net/reviews-by-title/)
 * Box Office Mojo
 * IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
+* TheMovieDB
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+### Three Deliverables:
+1. [GitHub repository](https://github.com/khyateed/Movie-Data-Analysis)
+2. [Jupyter Notebook](student.ipynb)
+3. [Non-technical presentation](project_1.pdf)
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+# Exploration Questions
 
-## Deliverables
+## 1. Which Movie Genres are Most Successful?
+This question investigates which movie genres are most successful, through different measures of "success" beyond gross revenue. Academy Award nominations are widely accepted as a reliable measure of a film's quality, so we decided to include Oscar Nomination data in the analysis.
+If the data suggests that certain movie genres tend to receive more nominations or generate a higher gross revenue, "Microsoft" should invest more in producing films of those genres.
 
-There are three deliverables for this project:
+ 
+### Hypothesis
+- Family and Action movies are most successful in the Box Office
+- Drama movies get more Oscar nominations
 
-1. A **GitHub repository**
-2. A **Jupyter Notebook**
-3. A **non-technical presentation**
 
-Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
-We provide a few resources to help you understand what makes for good deliverables.
-- The rubric associated with this assignment
-- [A template for you to use, with an example for reference][].
+## 2. How Does a Movie Trailer Impact Box Office Success?
+This question explores the relationship between movie budget, and Box Office success. A portion of movie budget is spent on marketing efforts, such as the movie trailer. If there is a relationship between movie trailer popularity and Box Office success, this could indicate that marketing efforts (such as movie trailers) have a significant impact on revenue, and that "Microsoft" should place a higher importance on investing resources into movie trailers for their future movies.
+### Hypothesis
+- movies with higher production budgets tend to have a higher return-on-investment
+- movies with highly-viewed trailers tend to be more successful in the box office
 
-### GitHub Repository
-
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
-
-### Jupyter Notebook
-
-Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
-
-### Non-Technical Presentation
-
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
-
-## Getting Started
-
-Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
-
-We recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository][], clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review [the Phase Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
-
-## Tips
-
-Ask for help from your peers or instructors early and often.
-
-[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
-[the Phase Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
+## 3. How Does Movie Soundtrack Relate to Box Office Success?
+This question explores the relationship between movie soundtrack ratings and online ratings/Box Office success of a movie. If there is a relationship between soundtrack rating and movie success, this suggests that a good soundtrack is common among successful movies, and Microsoft should invest resources into music score production for their movies.
+### Hypothesis
+- movies with highly-rated music scores tend to be more successful in the box office
